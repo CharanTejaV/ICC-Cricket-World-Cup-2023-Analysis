@@ -1,5 +1,6 @@
 # ICC-Cricket-World-Cup-2023-Analysis
 In this project, I have meticulously analyzed the ICC ODI World Cup 2023 matches using a comprehensive dataset. The dataset has been thoroughly cleaned, and I have performed insightful analyses to uncover various aspects of the tournament
+
 ## Overview:
 The 2023 ICC Men's Cricket World Cup marks the 13th edition of this quadrennial One Day International (ODI) cricket tournament. Organized by the International Cricket Council (ICC), the event is currently underway in India, commencing on 5 October and is scheduled to conclude on 19 November 2023. The defending champions are England, who clinched victory in the 2019 edition by defeating New Zealand in a memorable final at Lord's, London.
 
